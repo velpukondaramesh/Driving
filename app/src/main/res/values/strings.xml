@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Driving</string>
+    <string name="app_signin">Sign In</string>
+    <string name="app_signup">Sign Up</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="user_name">Name</string>
+    <string name="email_id">Email Id</string>
+    <string name="password">Password</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6927632034423643/6542940212</string>
+
+    <string name="login_error_title">Error!</string>
+</resources>

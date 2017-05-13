@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "731114025143",
+    "firebase_url": "https://drivingtest-de670.firebaseio.com",
+    "project_id": "drivingtest-de670",
+    "storage_bucket": "drivingtest-de670.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731114025143:android:a97c32e0978019d5",
+        "android_client_info": {
+          "package_name": "com.ram.drivingtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731114025143-v0fc1bja1di4f01a1khuoaniut5lfimd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ram.drivingtest",
+            "certificate_hash": "fb746816fe5ca8c3249b2e795d1ec14df606ddec"
+          }
+        },
+        {
+          "client_id": "731114025143-kcb3jufuh0c3b340690p8u5j33nd7ft4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeJ0BMSoR_YgZdeYaxODAggMqqdECvUm8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731114025143-kcb3jufuh0c3b340690p8u5j33nd7ft4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
