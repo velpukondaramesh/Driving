@@ -64,8 +64,8 @@ public class Test_Activity extends AppCompatActivity {
             loadLogInView();
         } else {
             mUserId = mFirebaseUser.getUid();
-            QuestionModel obj = new QuestionModel("What is LLR?", "http://image10.bizrate-images.com/resize?sq=60&uid=2216744464");
-            mDatabase.child("english").push().setValue(obj);
+            /*QuestionModel obj = new QuestionModel("What is LLR?", "http://image10.bizrate-images.com/resize?sq=60&uid=2216744464");
+            mDatabase.child("english").push().setValue(obj);*/
 
             txt_question = (TextView) findViewById(R.id.txt_question);
             img_image = (ImageView) findViewById(R.id.img_image);
