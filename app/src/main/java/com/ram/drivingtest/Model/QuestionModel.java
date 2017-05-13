@@ -6,6 +6,16 @@ package com.ram.drivingtest.Model;
 
 public class QuestionModel {
 
+    String question, url;
+
+    public QuestionModel() {
+    }
+
+    public QuestionModel(String question, String url) {
+        this.question = question;
+        this.url = url;
+    }
+
     public String getQuestion() {
         return question;
     }
@@ -22,5 +32,5 @@ public class QuestionModel {
         this.url = url;
     }
 
-    String question, url;
+
 }

@@ -8,6 +8,7 @@
     <string name="email_id">Email Id</string>
     <string name="password">Password</string>
     <string name="banner_ad_unit_id">ca-app-pub-6927632034423643/6542940212</string>
+    <string name="action_logout">Sign Out</string>
 
     <string name="login_error_title">Error!</string>
 </resources>
